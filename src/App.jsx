@@ -3,7 +3,7 @@ import 'materialize-css/dist/js/materialize.min.js';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 
 import Home from './components/pages/Home';
-import Skills from './components/pages/skills/Skills';
+import Skills from './components/pages/Skills/Skills';
 import Educations from './components/pages/educations/Educations';
 import Experiences from './components/pages/experiences/Experiences';
 import { Route,Routes} from 'react-router-dom'
